@@ -1,6 +1,6 @@
-♥This file is the baseline code for kaggle NFL Health & Safety - Helmet Assignment
+♥This file （tuning-deepsort-helmet-mapping.ipynb） is the baseline code for kaggle NFL Health & Safety - Helmet Assignment
 
-这个文件是NFL Health & Safety - Helmet Assignment比赛的baseline代码
+tuning-deepsort-helmet-mapping.ipynb文件是NFL Health & Safety - Helmet Assignment比赛的baseline代码
 
 ⭐Please star to download the file
 
