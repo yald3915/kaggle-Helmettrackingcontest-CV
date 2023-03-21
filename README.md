@@ -1,6 +1,6 @@
-This file is the baseline code for NFL Health & Safety - Helmet Assignment
+This file is the baseline code for kaggle NFL Health & Safety - Helmet Assignment
 
-这个文件是NFL Health & Safety - Helmet Assignment 的baseline代码
+这个文件是NFL Health & Safety - Helmet Assignment比赛的baseline代码
 
 There are more than 30 baseline codes to share
 
